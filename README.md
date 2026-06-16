@@ -45,7 +45,7 @@ I'm an experienced customer account manager, delivering excellent customer servi
 - LinkedIn: https://www.linkedin.com/in/robert-aldous-72092449/
 - Portfolio: [Add your portfolio]
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RobAldous&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobAldous&theme=tokyonight" />
