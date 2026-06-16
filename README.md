@@ -55,4 +55,4 @@ Familiar with Azure cloud services for data storage, processing, and scalable an
 
 ⭐️ *Thanks for visiting my profile!*
 
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/1154d7ef-97bd-4c18-8327-47e52e7df470" />
+<img width="1200" height="200" alt="image" src="https://github.com/user-attachments/assets/1154d7ef-97bd-4c18-8327-47e52e7df470" />
