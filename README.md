@@ -47,8 +47,6 @@ Familiar with Azure cloud services for data storage, processing, and scalable an
 - LinkedIn: https://www.linkedin.com/in/robert-aldous-72092449/
 - Portfolio: [Add your portfolio]
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -56,3 +54,5 @@ Familiar with Azure cloud services for data storage, processing, and scalable an
 </p>
 
 ⭐️ *Thanks for visiting my profile!*
+
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/1154d7ef-97bd-4c18-8327-47e52e7df470" />
