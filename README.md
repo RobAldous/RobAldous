@@ -24,24 +24,22 @@ I'm an experienced customer account manager, delivering excellent customer servi
 ## My Skills
 
 ### Excel    
-Skilled in data cleaning, transformation, pivot tables, and building dynamic dashboards for reporting and analysis. 
+- Skilled in data cleaning, transformation, pivot tables, and building dynamic dashboards for reporting and analysis. 
 
 ### Tableau  
-Experienced in creating interactive dashboards and visual stories to communicate trends and insights effectively.
+- Experienced in creating interactive dashboards and visual stories to communicate trends and insights effectively.
 
 ### Power BI  
-Proficient in developing data models, reports, and DAX calculations for business intelligence solutions.
+- Proficient in developing data models, reports, and DAX calculations for business intelligence solutions.
 
 ### SQL  
-Strong in writing optimized queries for data extraction, transformation, and advanced analysis.
+- Strong in writing optimized queries for data extraction, transformation, and advanced analysis.
 
 ### Python   
-Using Python (Pandas, NumPy, Matplotlib) for data analysis, automation, and data processing workflows.
+- Using Python (Pandas, NumPy, Matplotlib) for data analysis, automation, and data processing workflows.
 
 ### Azure    
-Familiar with Azure cloud services for data storage, processing, and scalable analytics solutions.
-
----
+- Familiar with Azure cloud services for data storage, processing, and scalable analytics solutions.
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/robert-aldous-72092449/
