@@ -5,7 +5,7 @@
 
 # Hi, I'm Rob
 
-I'm an experienced customer account manager, delivering excellent customer service with a keen eye for administration. I have recently completed a Data Bootcamp, adding the basics of Excel, Tableau, Power BI, SQL and Python to my skillset, with the intention of beginning a career in data analysis.
+I'm an experienced customer account manager, delivering excellent customer service with a keen eye for administration. More recently I have managed e-commerce sites, adding new products and keeping stock and information up to date. I have recently completed a Data Bootcamp, adding the basics of Excel, Tableau, Power BI, SQL and Python to my skillset, with the intention of beginning a career in data analysis.
 
 ---
 
