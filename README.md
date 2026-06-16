@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Robert%20Aldous&fontSize=40&fontColor=ffffff" />
 </p>
 
-# Hi there 👋, I'm Rob
+# Hi, I'm Rob
 
 I'm an experienced customer account manager, delivering excellent customer service with a keen eye for administration. I have recently completed a Bootcamp, adding the basics to my skillset with the intention of beginning a career in data analysis.
 
