@@ -42,8 +42,8 @@ I'm an experienced customer account manager, delivering excellent customer servi
 - Familiar with Azure cloud services for data storage, processing, and scalable analytics solutions.
 
 ## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/robert-aldous-72092449/
-- Portfolio: [Add your portfolio]
+- [LinkedIn](https://www.linkedin.com/in/robert-aldous-72092449/): 
+- [ Portfolio](https://sites.google.com/view/robertaldous/home):
 
 ## GitHub Stats
 
